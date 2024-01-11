@@ -30,7 +30,7 @@ The YouTube Data API offers a range of features to help you extract and analyze 
 
 + **MongoDB**: The collected data can be stored in a MongoDB database for efficient data management and querying.
 
-+ **PyMongo:** A Python library that enables interaction with MongoDB, a NoSQL database. It is used for storing and retrieving data from MongoDB in the YouTube Data Scraper.
++ **PyMongo:** A Python library that enables interaction with MongoDB, a NoSQL database.
 
 + **Pandas:** A powerful data manipulation and analysis library in Python. Pandas is used in the YouTube Data Scraper to handle and process data obtained from YouTube, providing functionalities such as data filtering, transformation, and aggregation.
 
@@ -60,9 +60,8 @@ The YouTube Data API offers a range of features to help you extract and analyze 
 
 + Next click on Push to MongoDB to store data in MongoDB .
 
-+ Select a channel name from the dropdown Channel Details and click on Push to SQL to import data into PostgreSQL.
++ Select a channel name from the dropdown Channel Details and click on Push to SQL to import data.
 
-+ Once imported, you can select the Analysis and Reports Page from the drop down to get a detailed analysis of the collected data.
 
 
 
